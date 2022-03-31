@@ -1,0 +1,24 @@
+{
+  "name": "blogposts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "memory-cache": "^0.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "jest-extended": "^0.11.5",
+    "supertest": "^6.1.5"
+  }
+}
